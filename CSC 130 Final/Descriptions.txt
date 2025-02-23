@@ -1,0 +1,9 @@
+pond0*Pond: Make a wish!
+pond1*Pond: You threw your last coin!
+pond2*Pond: A fairy appears before your eyes!
+honeytree0*Bees: BuuzzZzzzZzz
+honeytree1*Bees: You can smell the sweet honey dripping from their hive. 
+honeytree2*Bees: Maybe just a little... tast- Ouch!
+bear0*Bear: ZzzZzZzz..
+bear1*Bear: ZzzZzZzz.. Snort..
+bear2*Bear: ZzzZzZzz.. Hmm?
